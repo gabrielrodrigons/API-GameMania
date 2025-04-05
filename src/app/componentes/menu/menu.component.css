@@ -1,0 +1,20 @@
+.logo-img {
+    height: 80px;
+    width: auto;
+}
+
+.custom-navbar {
+    padding: 1rem 0.5rem;
+}
+
+.custom-link {
+    font-size: 20px;
+    color: #cfcece !important;
+    margin-left: 20px;
+    transition: color 0.4s ease;
+    font-weight: bold;
+}
+
+.custom-link:hover {
+    color: #ffffff !important;
+}

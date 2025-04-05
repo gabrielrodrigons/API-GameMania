@@ -1,0 +1,25 @@
+{
+  "produtos": [
+    {
+      "id": 1,
+      "produto": "Futebol",
+      "descricao": "O melhor jogo de futebol para se divertir com amigos.",
+      "imagem": "futebol.jpg",
+      "valor": "159,99"
+    },
+    {
+      "id": 2,
+      "produto": "Xadrez Online",
+      "descricao": "Exige muito racíocinio e pacíencia",
+      "imagem": "xadrez.jpg",
+      "valor": "39,99"
+    },
+    {
+      "id": 3,
+      "produto": "Kart",
+      "descricao": "O melhor jogo de corrida para jogar com amigos.",
+      "imagem": "kart.jpg",
+      "valor": "199,99"
+    }
+  ]
+}
